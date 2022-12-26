@@ -3339,11 +3339,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DesenvolvedorIO\\Projetos\\DominandoEFCore\\DominandoEFCore.csproj",
+      "projectUniqueName": "D:\\DesenvolvedorIO\\Projetos\\git\\dominandoEFCore\\DominandoEFCore\\DominandoEFCore.csproj",
       "projectName": "DominandoEFCore",
-      "projectPath": "D:\\DesenvolvedorIO\\Projetos\\DominandoEFCore\\DominandoEFCore.csproj",
+      "projectPath": "D:\\DesenvolvedorIO\\Projetos\\git\\dominandoEFCore\\DominandoEFCore\\DominandoEFCore.csproj",
       "packagesPath": "C:\\Users\\TalitaOrfano\\.nuget\\packages\\",
-      "outputPath": "D:\\DesenvolvedorIO\\Projetos\\DominandoEFCore\\obj\\",
+      "outputPath": "D:\\DesenvolvedorIO\\Projetos\\git\\dominandoEFCore\\DominandoEFCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
